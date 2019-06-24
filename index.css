@@ -1,0 +1,37 @@
+body{
+	max-width: 700px;
+	width: 80%;
+	margin:20px auto;
+	border: 20px solid #bdc3c7;
+	font-family: "Source Sans Pro", sans-serif;
+	padding: 20px;
+}
+p{
+	text-align: left;
+}
+h2{
+	text-align: left;
+	font-weight: 900;
+	font-size: 2.0rem;
+}
+.date{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+.first_paragraph{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+.content{
+	margin-bottom: 20px;
+	font-weight: 600;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
